@@ -1,2 +1,2 @@
-name  age  color
-parker  23  blue
+name age color
+parker 23 blue
