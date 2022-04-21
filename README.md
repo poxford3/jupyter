@@ -6,6 +6,3 @@
 # 
 ![image showing the charts about manufacturers of cars](car_inference.png)
 
-### changes made from mac
-
-### changes made from browser
